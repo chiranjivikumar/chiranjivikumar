@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiranjivikumar" alt="chiranjivikumar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/chirangbhushan" target="blank"><img src="https://img.shields.io/twitter/follow/chirangbhushan?logo=twitter&style=for-the-badge" alt="chirangbhushan" /></a> </p>
+<img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **c++**
 
