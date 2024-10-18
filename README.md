@@ -31,8 +31,9 @@
 <p><a href="https://www.buymeacoffee.com/chiranjivikumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chiranjivikumar" /></a></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranjivikumar&show_icons=true&locale=en&layout=compact" alt="chiranjivikumar" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranjivikumar&show_icons=true&locale=en" alt="chiranjivikumar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranjivikumar&show_icons=true&locale=en&layout=compact" alt="chiranjivikumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjivikumar&" alt="chiranjivikumar" /></p>
