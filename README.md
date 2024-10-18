@@ -35,8 +35,7 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranjivikumar&show_icons=true&locale=en&layout=compact" alt="chiranjivikumar" /></p>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranjivikumar&show_icons=true&locale=en" alt="chiranjivikumar" /></p>
-<br>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjivikumar&" alt="chiranjivikumar" /></p>
