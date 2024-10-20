@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋 This is Chiranjivi Kumar</h1>
+<h1 align="center">Hi👋 This is Chiranjivi Kumar</h1><br>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiranjivikumar&label=Profile%20views&color=0e75b6&style=flat" alt="chiranjivikumar" /> </p>
